@@ -5,7 +5,7 @@
     <welcome-file>bem-vindo.html</welcome-file>
   </welcome-file-list>
   
-  <!-- <servlet>
+  <servlet>
   	<servlet-name>OiMundoServlet</servlet-name>
   	<servlet-class>br.com.alura.gerenciador.servlet.OiMundoServlet</servlet-class>
   </servlet>
@@ -13,6 +13,6 @@
   <servlet-mapping>
   	<servlet-name>OiMundoServlet</servlet-name>
   	<url-pattern>/ola</url-pattern>
-  </servlet-mapping> -->
+  </servlet-mapping>
   
 </web-app>
